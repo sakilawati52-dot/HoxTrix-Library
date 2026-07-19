@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Ganti [![file-00000000c23481fa8e39c0f7b63d8b32.png](https://i.postimg.cc/bvyjB42N/file-00000000c23481fa8e39c0f7b63d8b32.png)](https://postimg.cc/18jTgCHL) dengan link gambar logomu, atau taruh file logo.png di repo lalu isi dengan: logo.png -->
-  <img src="logo.png" alt="HoxTrix Logo" width="180" height="180">
+  <img src="https://i.postimg.cc/bvyjB42N/file-00000000c23481fa8e39c0f7b63d8b32.png" width="500">
 </p>
 
 <h1 align="center">🚀 HoxTrix UI Library</h1>
