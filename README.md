@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Ganti URL_IMAGE_LOGO_KAMU dengan link gambar logomu, atau taruh file logo.png di repo lalu isi dengan: logo.png -->
+  <!-- Ganti 00000000c23481fa8e39c0f7b63d8b32 dengan link gambar logomu, atau taruh file logo.png di repo lalu isi dengan: logo.png -->
   <img src="logo.png" alt="HoxTrix Logo" width="180" height="180">
 </p>
 
